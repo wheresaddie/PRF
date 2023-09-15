@@ -3,7 +3,7 @@ name: Private Retrieval Proposal
 about: 'Template for PRF proposal '
 title: ''
 labels: ''
-assignees: wheresaddie
+assignees: willscott, wheresaddie
 
 ---
 
